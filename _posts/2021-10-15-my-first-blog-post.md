@@ -1,5 +1,4 @@
-# This is My First Blog  Post
 ---
-title: "Blog site"
+title: "Your blog post title"
 date: 2021-10-15
 ---
